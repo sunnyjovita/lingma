@@ -2,7 +2,7 @@ import os
 import sys
 from openai import OpenAI
 
-#hello 
+#hello this is sunny's code 
 def main():
     # Initialize the OpenAI client
     client = OpenAI(
